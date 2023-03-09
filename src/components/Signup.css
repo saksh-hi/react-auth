@@ -1,0 +1,40 @@
+.form{
+    height: 70vh;
+    width: 60vw;
+    background-color: rgb(8, 6, 23);
+    margin: 4vh 19vw;
+    display: flex;
+}
+h1{
+    color: #fff;
+}
+.inpo{
+    padding: 15px 40px;
+    margin-top: 23px;
+    border-radius: 10px;
+    margin-left: 8vw;
+    box-shadow:inset 0 0 4px 4px #888;
+    background: #fff;
+}
+.btn{
+    padding: 10px 30px;
+    border-radius: 50px;
+    background-color: rgb(161, 201, 161);
+   margin: 30px 120px;
+}
+.link{
+    margin-left: 8vw;
+    font-size: 15px;
+    color: #fff;
+}
+.img{
+    height: 70vh;
+    width: 25vw;
+    background-color: red;
+    overflow: hidden;
+    background-size: cover;
+}
+.img img{
+    height: 70vh;
+    width: 25vw;
+}
